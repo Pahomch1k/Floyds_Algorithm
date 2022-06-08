@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floyds_Algorithm", "Floyds_Algorithm\Floyds_Algorithm.csproj", "{2750BAA1-EC7A-438E-A003-CE215B6FD4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2750BAA1-EC7A-438E-A003-CE215B6FD4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2750BAA1-EC7A-438E-A003-CE215B6FD4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2750BAA1-EC7A-438E-A003-CE215B6FD4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2750BAA1-EC7A-438E-A003-CE215B6FD4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77A5D5D4-5482-46E2-9A42-0F971D5E07B1}
+	EndGlobalSection
+EndGlobal
